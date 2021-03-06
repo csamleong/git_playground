@@ -16,4 +16,3 @@ def function2():
 def authorization():
     print("Added authorization function")
     print("Bug fix in authorization function 2")
-    print("Added more handling on tokenization when it comes to authorization")
