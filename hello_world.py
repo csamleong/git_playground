@@ -4,6 +4,7 @@ print("hello world")
 
 def function1():
     print("Calling from function")
+    print("bug fix at function1")
 
 
 function1()
