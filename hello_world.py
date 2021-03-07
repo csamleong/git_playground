@@ -22,3 +22,4 @@ def authorization():
 def data_encryption():
     print("OWASP fixes1")
     print("OWASP fixes2")
+    print("OWASP fixes3")
