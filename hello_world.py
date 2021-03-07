@@ -17,3 +17,7 @@ def function2():
 def authorization():
     print("Added authorization function")
     print("Bug fix in authorization function 2")
+
+
+def data_encryption():
+    print("OWASP fixes1")
